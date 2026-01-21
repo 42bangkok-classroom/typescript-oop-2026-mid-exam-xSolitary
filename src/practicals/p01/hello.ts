@@ -1,1 +1,1 @@
-console.log("f")// Write your code below hihihihi
+console.log("Hello Exam");
