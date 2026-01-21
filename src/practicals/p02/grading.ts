@@ -4,7 +4,7 @@ const score = Number(input);
 
 
 if (
-  input === undefined ||
+  input === undefined || input.trim() === ""||
   Number.isNaN(score) ||
   score < 0 ||
   score > 100
